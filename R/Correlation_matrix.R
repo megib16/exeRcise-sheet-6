@@ -34,8 +34,8 @@ correlation_matrix_plot <- function(data,
          ) +
     geom_tile(color = "white") +
     scale_fill_gradient2(
-      low = "blue",
-      high = "red",
+      low = "#00A1DE",
+      high = "#FF4563",
       mid = "beige",
       midpoint = 0,
       limit = c(-1,1),
