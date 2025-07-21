@@ -4,18 +4,18 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Megi", "Bida", , "Megi.Bida@campus.lmu.de", role = c("aut", "cre"))
 Description: Provides tools for data exploration and visualization. 
-Includes functions for handling missing values, exporting data frames, 
-creating customizable scatterplots, and visualizing correlation matrices. 
-These features are designed to help users quickly analyze and present their data.
+    Includes functions for handling missing values, exporting data frames, 
+    creating customizable scatterplots, and visualizing correlation matrices. 
+    These features are designed to help users quickly analyze and present their data.
 License: MIT
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Imports:
-  knitr,
-  kableExtra, 
-  ggplot2,
-  dplyr, 
-  magrittr,
-  reshape2,
-  tidyr
+    knitr,
+    kableExtra, 
+    ggplot2,
+    dplyr, 
+    magrittr,
+    reshape2,
+    tidyr
