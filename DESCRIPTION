@@ -1,4 +1,4 @@
-Package: Explovis
+Package: explovis
 Title: Tools for Handling Missing Values and Visualizing Data
 Version: 0.0.0.9000
 Authors@R: 
